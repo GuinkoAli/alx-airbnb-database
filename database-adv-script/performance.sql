@@ -9,6 +9,7 @@ SELECT
     -- User details
     u.user_id,
     u.first_name,
+    
     u.last_name,
     u.email,
     u.phone_number,
